@@ -1031,7 +1031,7 @@ img {
         grid-column: initial;
     }
 
-    .home_blob-img {
+    .home_blob {
         order: 1;
         justify-self: center;
     }
